@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'eldercareinsights'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8030B3A20DF542F69EC3BA876A5F8190 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5E076C0EA99346CE86A6CA05A65A6849 }}
           package: .
